@@ -1,0 +1,81 @@
+home_id,settlement,paint,roof,wall,floor,ventilation
+1057,Ambedkar Colony,1,Concrete,Sand & Cement,Sand and Cement,Ventilation
+1039,Ambedkar Colony,0,Concrete,Sand & Cement,Sand and Cement,Ventilation
+1052,Ambedkar Colony,1,Concrete,Sand & Cement,Sand and Cement,Ventilation
+1012,Ambedkar Colony,0,Concrete,Concrete,Tiled,Ventilation
+1028,Ambedkar Colony,1,Concrete,Sand & Cement,Sand and Cement,Ventilation
+1034,Ambedkar Colony,0,Concrete,Sand & Cement,Sand and Cement,Ventilation
+1007,Ambedkar Colony,1,Concrete,Sand & Cement,Sand and Cement,Ventilation
+1032,Ambedkar Colony,0,Concrete,Sand & Cement,Sand and Cement,Ventilation
+1027,Ambedkar Colony,1,Concrete,Sand & Cement,Sand and Cement,Ventilation
+1067,Ambedkar Colony,0,Concrete,Concrete,Sand and Cement,Ventilation
+1080,Ambedkar Colony,1,Concrete,Sand & Cement,Sand and Cement,Ventilation
+1003,Ambedkar Colony,0,Concrete,Sand & Cement,Tiled,Ventilation
+1047,Ambedkar Colony,1,Concrete,Sand & Cement,Sand and Cement,Ventilation
+1063,Ambedkar Colony,0,Concrete,Sand & Cement,Sand and Cement,Ventilation
+1030,Ambedkar Colony,1,Concrete,Sand & Cement,Sand and Cement,Ventilation
+1029,Ambedkar Colony,0,Tin,Sand & Cement,Sand and Cement,Ventilation
+1064,Ambedkar Colony,1,Tin,Sand & Cement,Sand and Cement,No_Ventilation
+1054,Ambedkar Colony,0,Tin,Sand & Cement,Others,No_Ventilation
+1073,Ambedkar Colony,1,Concrete,Sand & Cement,Sand and Cement,Ventilation
+1013,Ambedkar Colony,0,Concrete,Sand & Cement,Sand and Cement,Ventilation
+1069,Ravti Colony,1,Concrete,Concrete,Sand and Cement,Ventilation
+1011,Ravti Colony,0,Concrete,Concrete,Sand and Cement,Not recorded
+1059,Ravti Colony,1,Tin,Brick,Sand and Cement,Ventilation
+1071,Ravti Colony,0,Tin,Concrete,Sand and Cement,Ventilation
+1023,Ravti Colony,1,Concrete,Concrete,Sand and Cement,Ventilation
+1026,Ravti Colony,0,Concrete,Concrete,Sand and Cement,Ventilation
+1014,Ravti Colony,1,Concrete,Concrete,Sand and Cement,Ventilation
+1005,Ravti Colony,0,Concrete,Concrete,Sand and Cement,Ventilation
+1015,Ravti Colony,0,Concrete,Concrete,Sand and Cement,No_Ventilation
+1056,Ravti Colony,1,Thatched,Concrete,Sand and Cement,Ventilation
+1061,Ravti Colony,0,Thatched,Concrete,Sand and Cement,No_Ventilation
+1076,Ravti Colony,1,Concrete,Concrete,Sand and Cement,Ventilation
+1022,Ravti Colony,0,Thatched,Concrete,Sand and Cement,Ventilation
+1036,Ravti Colony,1,Thatched,Concrete,Sand and Cement,Ventilation
+1006,Ravti Colony,0,Thatched,Concrete,Sand and Cement,Ventilation
+1048,Ravti Colony,1,Thatched,Concrete,Sand and Cement,Ventilation
+1020,Ravti Colony,0,Thatched,Concrete,Sand and Cement,Ventilation
+1009,Ravti Colony,1,Thatched,Concrete,Sand and Cement,Ventilation
+1004,Ravti Colony,0,Thatched,Concrete,Tiled,Ventilation
+1050,Ravti Colony,1,Concrete,Concrete,Sand and Cement,Ventilation
+1077,Jhalra Jhalechi Basti,1,Concrete,Concrete,Tiled,Ventilation
+1021,Jhalra Jhalechi Basti,0,Concrete,Brick,Sand and Cement,Ventilation
+1060,Jhalra Jhalechi Basti,1,Concrete,Brick,Sand and Cement,Ventilation
+1037,Jhalra Jhalechi Basti,0,Concrete,Brick,Sand and Cement,Ventilation
+1042,Jhalra Jhalechi Basti,1,Concrete,Brick,Sand and Cement,No_Ventilation
+1066,Jhalra Jhalechi Basti,0,Concrete,Brick,Sand and Cement,Ventilation
+1049,Jhalra Jhalechi Basti,1,Concrete,Brick,Sand and Cement,Ventilation
+1074,Jhalra Jhalechi Basti,0,Concrete,Brick,Sand and Cement,Ventilation
+1018,Jhalra Jhalechi Basti,1,Concrete,Brick,Sand and Cement,No_Ventilation
+1024,Jhalra Jhalechi Basti,0,Concrete,Concrete,Sand and Cement,Ventilation
+1017,Jhalra Jhalechi Basti,1,Concrete,Concrete,Sand and Cement,Ventilation
+1001,Jhalra Jhalechi Basti,0,Concrete,Brick,Sand and Cement,Ventilation
+1046,Jhalra Jhalechi Basti,1,Concrete,Brick,Sand and Cement,Ventilation
+1044,Jhalra Jhalechi Basti,0,Concrete,Brick,Sand and Cement,Ventilation
+1002,Jhalra Jhalechi Basti,1,Concrete,Concrete,Tiled,Ventilation
+1078,Jhalra Jhalechi Basti,0,Concrete,Brick,Sand and Cement,Ventilation
+1072,Jhalra Jhalechi Basti,1,Concrete,Concrete,Tiled,Ventilation
+1016,Jhalra Jhalechi Basti,0,Concrete,Brick,Sand and Cement,Ventilation
+1033,Jhalra Jhalechi Basti,1,Concrete,Brick,Sand and Cement,Ventilation
+1053,Jhalra Jhalechi Basti,0,Concrete,Brick,Sand and Cement,No_Ventilation
+1035,Pak Visthapit,1,Concrete,Sand & Cement,Sand and Cement,Ventilation
+1075,Pak Visthapit,0,Concrete,Sand & Cement,Sand and Cement,Ventilation
+1070,Pak Visthapit,1,Concrete,Sand & Cement,Sand and Cement,Ventilation
+1079,Pak Visthapit,0,Concrete,Sand & Cement,Sand and Cement,Ventilation
+1068,Pak Visthapit,1,Concrete,Sand & Cement,Sand and Cement,Ventilation
+1019,Pak Visthapit,0,Concrete,Sand & Cement,Sand and Cement,Not recorded
+1062,Pak Visthapit,1,Concrete,Sand & Cement,Sand and Cement,Ventilation
+1055,Pak Visthapit,0,Concrete,Sand & Cement,Sand and Cement,Ventilation
+1043,Pak Visthapit,1,Concrete,Sand & Cement,Sand and Cement,Not recorded
+1008,Pak Visthapit,0,Concrete,Sand & Cement,Sand and Cement,Ventilation
+1025,Pak Visthapit,1,Concrete,Sand & Cement,Sand and Cement,Not recorded
+1045,Pak Visthapit,0,Concrete,Sand & Cement,Sand and Cement,Ventilation
+1040,Pak Visthapit,1,Concrete,Sand & Cement,Sand and Cement,Ventilation
+1031,Pak Visthapit,0,Concrete,Concrete,Sand and Cement,Ventilation
+1051,Pak Visthapit,1,Tin,Sand & Cement,Tiled,Ventilation
+1058,Pak Visthapit,0,Concrete,Sand & Cement,Sand and Cement,Ventilation
+1041,Pak Visthapit,1,Concrete,Sand & Cement,Sand and Cement,Not recorded
+1065,Pak Visthapit,0,Concrete,Sand & Cement,Tiled,Ventilation
+1010,Pak Visthapit,1,Concrete,Concrete,,Not recorded
+1038,Pak Visthapit,0,Concrete,Sand & Cement,Sand and Cement,Ventilation

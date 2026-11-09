@@ -1,0 +1,227 @@
+report_id,activity,paint,report_type,start_h,end_h,marker_h,duration_h
+R0001,Wake up,1,point_event,6.0,6.0,6.0,
+R0002,Cooking,1,interval,8.0,9.0,8.5,1.0
+R0003,Cleaning,1,interval,10.0,11.0,10.5,1.0
+R0007,Napping,1,interval,15.0,16.0,15.5,1.0
+R0009,Sleeping,1,point_event,23.0,23.0,23.0,
+R0010,Wake up,0,point_event,5.0,5.0,5.0,
+R0011,Cooking,0,interval,7.0,8.0,7.5,1.0
+R0012,Cleaning,0,interval,9.0,10.0,9.5,1.0
+R0016,Napping,0,interval,14.0,16.0,15.0,2.0
+R0018,Sleeping,0,point_event,23.0,23.0,23.0,
+R0019,Wake up,0,point_event,6.0,6.0,6.0,
+R0020,Cooking,0,interval,7.0,9.0,8.0,2.0
+R0021,Cleaning,0,interval,11.0,12.0,11.5,1.0
+R0025,Napping,0,interval,14.0,16.0,15.0,2.0
+R0027,Sleeping,0,point_event,23.0,23.0,23.0,
+R0028,Wake up,0,point_event,5.0,5.0,5.0,
+R0029,Cooking,0,interval,9.0,10.0,9.5,1.0
+R0030,Cleaning,0,interval,10.0,11.0,10.5,1.0
+R0034,Napping,0,interval,13.0,16.0,14.5,3.0
+R0036,Sleeping,0,point_event,22.0,22.0,22.0,
+R0037,Wake up,0,point_event,6.0,6.0,6.0,
+R0038,Cooking,0,interval,7.0,8.0,7.5,1.0
+R0039,Cleaning,0,interval,9.0,12.0,10.5,3.0
+R0043,Napping,0,interval,12.0,15.0,13.5,3.0
+R0045,Sleeping,0,point_event,23.0,23.0,23.0,
+R0046,Wake up,1,point_event,5.5,5.5,5.5,
+R0047,Cooking,1,interval,6.0,7.0,6.5,1.0
+R0048,Cleaning,1,interval,7.0,8.0,7.5,1.0
+R0052,Napping,1,interval,14.0,15.0,14.5,1.0
+R0054,Sleeping,1,point_event,23.0,23.0,23.0,
+R0055,Wake up,1,point_event,6.0,6.0,6.0,
+R0056,Cooking,1,interval,7.0,8.0,7.5,1.0
+R0057,Cleaning,1,interval,9.0,10.5,9.75,1.5
+R0061,Napping,1,interval,13.0,16.0,14.5,3.0
+R0063,Sleeping,1,point_event,23.0,23.0,23.0,
+R0064,Wake up,1,point_event,7.5,7.5,7.5,
+R0065,Cooking,1,interval,8.0,9.0,8.5,1.0
+R0066,Cleaning,1,interval,9.0,10.0,9.5,1.0
+R0070,Napping,1,interval,14.0,16.0,15.0,2.0
+R0071,Socializing,1,interval,10.0,11.0,10.5,1.0
+R0072,Sleeping,1,point_event,23.0,23.0,23.0,
+R0073,Wake up,1,point_event,6.0,6.0,6.0,
+R0074,Cooking,1,interval,8.0,9.0,8.5,1.0
+R0075,Cleaning,1,point_event,10.0,10.0,10.0,
+R0079,Napping,1,interval,14.0,15.0,14.5,1.0
+R0081,Sleeping,1,point_event,23.0,23.0,23.0,
+R0082,Wake up,0,point_event,7.0,7.0,7.0,
+R0083,Cooking,0,interval,8.0,9.0,8.5,1.0
+R0084,Cleaning,0,interval,10.0,11.0,10.5,1.0
+R0088,Napping,0,interval,13.0,15.0,14.0,2.0
+R0090,Sleeping,0,point_event,22.0,22.0,22.0,
+R0091,Wake up,1,point_event,6.0,6.0,6.0,
+R0092,Cooking,1,interval,8.0,9.0,8.5,1.0
+R0093,Cleaning,1,interval,9.0,10.0,9.5,1.0
+R0097,Napping,1,interval,14.0,15.0,14.5,1.0
+R0099,Sleeping,1,point_event,22.0,22.0,22.0,
+R0100,Wake up,1,point_event,5.5,5.5,5.5,
+R0101,Cooking,1,interval,7.0,8.0,7.5,1.0
+R0102,Cleaning,1,interval,9.0,10.0,9.5,1.0
+R0106,Napping,1,interval,14.0,16.0,15.0,2.0
+R0107,Socializing,1,interval,17.0,18.0,17.5,1.0
+R0108,Sleeping,1,point_event,22.0,22.0,22.0,
+R0109,Wake up,0,point_event,5.0,5.0,5.0,
+R0110,Cooking,0,interval,6.0,7.0,6.5,1.0
+R0115,Napping,0,interval,15.0,16.0,15.5,1.0
+R0116,Socializing,0,interval,17.0,18.0,17.5,1.0
+R0117,Sleeping,0,point_event,23.0,23.0,23.0,
+R0118,Wake up,0,point_event,5.5,5.5,5.5,
+R0119,Cooking,0,interval,7.0,8.0,7.5,1.0
+R0120,Cleaning,0,interval,8.0,9.0,8.5,1.0
+R0124,Napping,0,interval,14.0,15.5,14.75,1.5
+R0125,Socializing,0,interval,17.0,18.0,17.5,1.0
+R0126,Sleeping,0,point_event,22.0,22.0,22.0,
+R0127,Wake up,0,point_event,6.0,6.0,6.0,
+R0133,Napping,0,interval,14.0,15.0,14.5,1.0
+R0134,Socializing,0,interval,21.0,22.0,21.5,1.0
+R0135,Sleeping,0,point_event,24.0,24.0,24.0,
+R0136,Wake up,1,point_event,6.0,6.0,6.0,
+R0144,Sleeping,1,point_event,23.0,23.0,23.0,
+R0145,Wake up,1,point_event,6.0,6.0,6.0,
+R0153,Sleeping,1,point_event,23.0,23.0,23.0,
+R0154,Wake up,1,point_event,5.0,5.0,5.0,
+R0162,Sleeping,1,point_event,22.0,22.0,22.0,
+R0163,Wake up,0,point_event,5.0,5.0,5.0,
+R0171,Sleeping,0,point_event,23.0,23.0,23.0,
+R0172,Wake up,0,point_event,7.0,7.0,7.0,
+R0180,Sleeping,0,point_event,23.0,23.0,23.0,
+R0181,Wake up,0,point_event,6.0,6.0,6.0,
+R0189,Sleeping,0,point_event,23.0,23.0,23.0,
+R0190,Wake up,0,point_event,5.0,5.0,5.0,
+R0191,Cooking,0,interval,6.0,7.0,6.5,1.0
+R0199,Wake up,1,point_event,5.0,5.0,5.0,
+R0207,Sleeping,1,point_event,23.0,23.0,23.0,
+R0208,Wake up,1,point_event,6.0,6.0,6.0,
+R0216,Sleeping,1,point_event,22.0,22.0,22.0,
+R0217,Wake up,0,point_event,5.5,5.5,5.5,
+R0225,Sleeping,0,point_event,23.0,23.0,23.0,
+R0226,Wake up,1,point_event,6.0,6.0,6.0,
+R0234,Sleeping,1,point_event,22.0,22.0,22.0,
+R0235,Wake up,0,point_event,6.0,6.0,6.0,
+R0243,Sleeping,0,point_event,23.0,23.0,23.0,
+R0244,Wake up,1,point_event,5.0,5.0,5.0,
+R0245,Cooking,1,interval,5.5,6.5,6.0,1.0
+R0246,Cleaning,1,interval,6.5,10.0,8.25,3.5
+R0252,Sleeping,1,point_event,24.0,24.0,24.0,
+R0253,Wake up,0,point_event,6.0,6.0,6.0,
+R0261,Sleeping,0,point_event,23.0,23.0,23.0,
+R0271,Wake up,0,point_event,7.0,7.0,7.0,
+R0272,Cooking,0,interval,8.0,9.0,8.5,1.0
+R0280,Wake up,0,point_event,7.0,7.0,7.0,
+R0281,Cooking,0,interval,8.0,9.0,8.5,1.0
+R0289,Wake up,0,point_event,5.0,5.0,5.0,
+R0290,Cooking,0,interval,6.0,8.0,7.0,2.0
+R0291,Cleaning,0,interval,8.0,10.0,9.0,2.0
+R0292,Water or firewood collection,0,interval,17.5,19.0,18.25,1.5
+R0293,Water or firewood collection,0,point_event,23.0,23.0,23.0,
+R0295,Napping,0,interval,16.0,17.0,16.5,1.0
+R0296,Socializing,0,interval,17.0,18.0,17.5,1.0
+R0297,Sleeping,0,point_event,23.0,23.0,23.0,
+R0298,Wake up,0,point_event,5.0,5.0,5.0,
+R0299,Cooking,0,interval,6.0,8.0,7.0,2.0
+R0300,Cleaning,0,interval,9.0,11.0,10.0,2.0
+R0301,Water or firewood collection,0,point_event,17.0,17.0,17.0,
+R0304,Napping,0,interval,12.0,15.0,13.5,3.0
+R0305,Socializing,0,interval,17.0,18.0,17.5,1.0
+R0306,Sleeping,0,point_event,22.0,22.0,22.0,
+R0307,Wake up,1,point_event,6.0,6.0,6.0,
+R0308,Cooking,1,interval,6.0,8.0,7.0,2.0
+R0309,Cleaning,1,interval,9.0,10.0,9.5,1.0
+R0310,Water or firewood collection,1,interval,5.0,7.0,6.0,2.0
+R0311,Water or firewood collection,1,point_event,17.0,17.0,17.0,
+R0313,Napping,1,interval,14.0,16.0,15.0,2.0
+R0314,Socializing,1,point_event,18.0,18.0,18.0,
+R0315,Sleeping,1,point_event,21.5,21.5,21.5,
+R0316,Wake up,0,point_event,5.0,5.0,5.0,
+R0317,Cooking,0,interval,7.0,9.0,8.0,2.0
+R0318,Cleaning,0,interval,9.0,10.0,9.5,1.0
+R0319,Water or firewood collection,0,interval,17.5,18.5,18.0,1.0
+R0322,Napping,0,interval,14.5,16.5,15.5,2.0
+R0323,Socializing,0,interval,19.0,21.0,20.0,2.0
+R0324,Sleeping,0,point_event,23.0,23.0,23.0,
+R0325,Wake up,0,point_event,6.0,6.0,6.0,
+R0326,Cooking,0,interval,8.0,9.0,8.5,1.0
+R0327,Cleaning,0,interval,10.0,11.0,10.5,1.0
+R0328,Water or firewood collection,0,interval,18.333333333333332,19.5,18.916666666666668,1.166666666666668
+R0331,Napping,0,interval,14.0,16.0,15.0,2.0
+R0332,Socializing,0,interval,20.0,21.0,20.5,1.0
+R0333,Sleeping,0,point_event,23.0,23.0,23.0,
+R0334,Wake up,0,point_event,5.0,5.0,5.0,
+R0335,Cooking,0,interval,6.0,8.0,7.0,2.0
+R0336,Cleaning,0,interval,9.0,11.0,10.0,2.0
+R0337,Water or firewood collection,0,point_event,17.0,17.0,17.0,
+R0340,Napping,0,interval,12.0,15.0,13.5,3.0
+R0341,Socializing,0,interval,17.0,18.0,17.5,1.0
+R0342,Sleeping,0,point_event,22.0,22.0,22.0,
+R0343,Wake up,1,point_event,5.0,5.0,5.0,
+R0344,Cooking,1,interval,6.0,9.0,7.5,3.0
+R0345,Cleaning,1,interval,10.0,12.0,11.0,2.0
+R0346,Water or firewood collection,1,point_event,17.5,17.5,17.5,
+R0349,Napping,1,interval,13.0,17.0,15.0,4.0
+R0350,Socializing,1,interval,17.0,19.0,18.0,2.0
+R0351,Sleeping,1,point_event,22.0,22.0,22.0,
+R0352,Wake up,1,point_event,5.0,5.0,5.0,
+R0353,Cooking,1,interval,7.0,10.0,8.5,3.0
+R0354,Cleaning,1,interval,10.0,11.0,10.5,1.0
+R0355,Water or firewood collection,1,interval,6.0,7.0,6.5,1.0
+R0356,Water or firewood collection,1,interval,12.0,15.0,13.5,3.0
+R0358,Napping,1,interval,15.0,16.0,15.5,1.0
+R0359,Socializing,1,interval,17.0,18.0,17.5,1.0
+R0360,Sleeping,1,point_event,22.0,22.0,22.0,
+R0361,Wake up,1,point_event,5.0,5.0,5.0,
+R0362,Cooking,1,interval,6.0,8.0,7.0,2.0
+R0363,Cleaning,1,interval,9.0,11.0,10.0,2.0
+R0364,Water or firewood collection,1,point_event,17.0,17.0,17.0,
+R0367,Napping,1,interval,12.0,15.0,13.5,3.0
+R0368,Socializing,1,interval,17.0,18.0,17.5,1.0
+R0369,Sleeping,1,point_event,22.0,22.0,22.0,
+R0370,Wake up,0,point_event,6.0,6.0,6.0,
+R0371,Cooking,0,interval,6.0,8.0,7.0,2.0
+R0372,Cleaning,0,interval,9.0,10.0,9.5,1.0
+R0373,Water or firewood collection,0,interval,5.0,7.0,6.0,2.0
+R0374,Water or firewood collection,0,point_event,17.0,17.0,17.0,
+R0376,Napping,0,interval,14.0,16.0,15.0,2.0
+R0377,Socializing,0,point_event,18.0,18.0,18.0,
+R0378,Sleeping,0,point_event,21.0,21.0,21.0,
+R0379,Wake up,1,point_event,7.0,7.0,7.0,
+R0380,Cooking,1,interval,8.0,9.0,8.5,1.0
+R0387,Sleeping,1,point_event,23.0,23.0,23.0,
+R0388,Wake up,1,point_event,4.0,4.0,4.0,
+R0389,Cooking,1,interval,8.0,9.0,8.5,1.0
+R0390,Cleaning,1,interval,10.0,11.0,10.5,1.0
+R0391,Water or firewood collection,1,point_event,17.0,17.0,17.0,
+R0392,Water or firewood collection,1,point_event,17.0,17.0,17.0,
+R0394,Napping,1,interval,16.0,18.0,17.0,2.0
+R0395,Socializing,1,point_event,18.0,18.0,18.0,
+R0397,Wake up,0,point_event,5.0,5.0,5.0,
+R0398,Cooking,0,interval,7.0,9.0,8.0,2.0
+R0399,Cleaning,0,interval,9.0,10.0,9.5,1.0
+R0400,Water or firewood collection,0,interval,17.5,19.0,18.25,1.5
+R0405,Sleeping,0,point_event,24.0,24.0,24.0,
+R0406,Wake up,1,point_event,6.0,6.0,6.0,
+R0407,Cooking,1,interval,9.0,11.0,10.0,2.0
+R0408,Cleaning,1,interval,11.0,12.0,11.5,1.0
+R0409,Water or firewood collection,1,point_event,17.0,17.0,17.0,
+R0413,Socializing,1,interval,17.0,18.0,17.5,1.0
+R0414,Sleeping,1,point_event,21.0,21.0,21.0,
+R0415,Wake up,0,point_event,6.0,6.0,6.0,
+R0416,Cooking,0,interval,7.0,8.0,7.5,1.0
+R0417,Cleaning,0,interval,8.0,9.0,8.5,1.0
+R0421,Napping,0,interval,13.0,15.0,14.0,2.0
+R0424,Wake up,1,point_event,5.0,5.0,5.0,
+R0425,Cooking,1,interval,5.5,6.5,6.0,1.0
+R0426,Cleaning,1,interval,11.0,12.0,11.5,1.0
+R0430,Napping,1,interval,12.0,15.0,13.5,3.0
+R0431,Socializing,1,interval,17.0,18.0,17.5,1.0
+R0432,Sleeping,1,point_event,22.0,22.0,22.0,
+R0433,Wake up,0,point_event,5.0,5.0,5.0,
+R0434,Cooking,0,interval,6.0,9.0,7.5,3.0
+R0439,Napping,0,interval,14.0,15.0,14.5,1.0
+R0440,Socializing,0,interval,18.0,19.0,18.5,1.0
+R0441,Sleeping,0,point_event,22.0,22.0,22.0,
+R0442,Wake up,0,point_event,5.0,5.0,5.0,
+R0443,Cooking,0,interval,7.0,8.0,7.5,1.0
+R0444,Cleaning,0,interval,8.0,9.0,8.5,1.0
+R0448,Napping,0,interval,13.0,14.0,13.5,1.0
+R0450,Sleeping,0,point_event,21.5,21.5,21.5,
