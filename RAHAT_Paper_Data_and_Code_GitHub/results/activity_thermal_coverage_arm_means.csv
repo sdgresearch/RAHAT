@@ -1,0 +1,13 @@
+row_id,component,component_label,activity,paint,group,mean_routine_overlap_minutes,pointwise_95_low_minutes,pointwise_95_high_minutes,n_reference_intervals,n_monitored_homes,bootstrap_valid,unit
+R_Cooking,R,Daytime resistance,Cooking,0,Control,73.52980537069848,62.96452883616323,85.18468504317472,36,39,2000,minutes
+R_Cooking,R,Daytime resistance,Cooking,1,Cool paint,78.73513048913894,67.89792861294859,90.3282034808649,36,40,2000,minutes
+R_Cleaning,R,Daytime resistance,Cleaning,0,Control,61.18491205487419,48.8840951892414,74.2350285729066,29,39,2000,minutes
+R_Cleaning,R,Daytime resistance,Cleaning,1,Cool paint,68.02558978196251,55.63251742065237,81.25149134351365,29,40,2000,minutes
+R_Napping,R,Daytime resistance,Napping,0,Control,37.71592503969438,27.028984429385265,48.44184020525045,30,39,2000,minutes
+R_Napping,R,Daytime resistance,Napping,1,Cool paint,61.99296179090483,48.02008978478416,76.86468529373047,30,40,2000,minutes
+R_Socializing,R,Daytime resistance,Socializing,0,Control,9.37480059790187,4.763676692743045,14.819133629669732,16,39,2000,minutes
+R_Socializing,R,Daytime resistance,Socializing,1,Cool paint,19.122821227647176,12.41022148034805,25.822032650190888,16,40,2000,minutes
+Q_Socializing,Q,Nighttime recovery,Socializing,0,Control,5.871381207087958,1.7288700845860658,11.354823398638004,16,39,2000,minutes
+Q_Socializing,Q,Nighttime recovery,Socializing,1,Cool paint,10.57172838808519,3.1506910323584725,19.93050784377365,16,40,2000,minutes
+Q_Sleep,Q,Nighttime recovery,Sleep,0,Control,264.8965847582073,232.46039955370836,298.27528466863555,44,39,2000,minutes
+Q_Sleep,Q,Nighttime recovery,Sleep,1,Cool paint,324.26704556870686,294.8698825947753,352.18921252488076,44,40,2000,minutes
